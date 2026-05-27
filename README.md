@@ -83,9 +83,11 @@ The workflow includes:
 Employees can check the status of previously submitted support requests using:
 
 - Ticket ID
-- Official employee email and Issue type
+- Official employee email and issue type
 
 The assistant validates ticket information before retrieving matching ticket records from Excel Online.
+
+The Copilot Studio topics use Excel Online connectors for ticket row creation and status lookup, and a Power Automate flow for Outlook V2 callback email notification.
 
 Validation handling includes:
 
