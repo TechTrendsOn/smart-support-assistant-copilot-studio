@@ -159,20 +159,6 @@ The assistant follows strict conversational and compliance rules, including:
 
 ---
 
-## Architecture and Workflow Coverage
-
-The repository includes:
-
-- Architecture diagrams
-- Workflow demonstrations
-- Screenshot-based demonstrations
-- Topic-level Copilot Studio workflow summaries
-- Evaluation summaries
-- Sample ticket records
-- Human escalation email workflow examples
-
----
-
 ## Demonstration Workflows Included
 
 The project demonstrations cover:
