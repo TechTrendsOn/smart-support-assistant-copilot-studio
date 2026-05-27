@@ -12,7 +12,7 @@ The assistant relies only on approved internal knowledge sources and follows saf
 
 ## Project Demo
 
-[View Working Demo PDF](demo/AI-Powered Smart Support Assistant for Internal Organisational Support Working Demo.pdf)
+[View Working Demo PDF](demo/AI-Powered-Smart-Support-Assistant-Demo.pdf)
 
 ---
 
