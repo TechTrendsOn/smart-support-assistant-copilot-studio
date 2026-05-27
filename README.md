@@ -10,6 +10,12 @@ The assistant relies only on approved internal knowledge sources and follows saf
 
 ---
 
+## Project Demo
+
+[View Working Demo PDF](demo/AI-Powered-Smart-Support-Assistant-Demo.pdf)
+
+---
+
 ## Project Objectives
 
 The project was designed to demonstrate:
@@ -218,6 +224,7 @@ copilot-studio/
 evaluation/
 knowledge-base/
 sample-data/
+demo/
 ```
 
 ---
