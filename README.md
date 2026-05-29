@@ -233,7 +233,9 @@ demo/
 
 ## Important Note
 
-This repository contains a recruiter-friendly and sanitised demonstration version of the project.
+This repository contains a recruiter-friendly and sanitised demonstration version of the project. 
+
+Due to Microsoft Copilot Studio trial tenant limitations, the live Copilot agent cannot be made publicly accessible as an external hosted demo. Therefore, this repository provides recruiter-friendly project evidence through the working demo PDF, workflow screenshots, architecture diagram, topic-level documentation, sample ticket records, and evaluation results.
 
 Raw implementation references such as:
 
